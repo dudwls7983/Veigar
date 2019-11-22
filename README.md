@@ -11,5 +11,5 @@ LOL 클라이언트 로딩중 응답없음으로 인한 화면 멈춤 현상 발
   
   
 - TODO List
-  - League of Legends가 응답없음인지 체크후 프로세스 제거 진행
+  - League of Legends가 응답없음인지 체크후 프로세스 종료 진행
   - 컴퓨터 부팅시 자동 재시작 옵션 추가
